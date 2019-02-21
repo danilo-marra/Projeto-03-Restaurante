@@ -1,9 +1,10 @@
-Resturante App (fase 1)
-[====================================]
+Restaurant Reviews App (Stage 1)
+===============================
 
-# Tabela de conteúdo
+## Tabela de conteúdo
 
-- [Tabela de conteúdo](#tabela-de-conte%C3%BAdo)
+- [Restaurant Reviews App (Stage 1)](#restaurant-reviews-app-stage-1)
+  - [Tabela de conteúdo](#tabela-de-conte%C3%BAdo)
   - [Descrição](#descri%C3%A7%C3%A3o)
   - [Instruções do Projeto](#instru%C3%A7%C3%B5es-do-projeto)
   - [Pré-requisitos](#pr%C3%A9-requisitos)
