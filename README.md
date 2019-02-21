@@ -32,7 +32,7 @@ Restaurant Reviews App (Fase 1)
 * Faça o download como arquivo .zip ou clone este projeto:
 
     ```
-    $ git clone https://github.com/stearruda/fend-restaurant-reviews-app.git
+    $ git clone https://github.com/gadernal/Projeto-03-Restaurante.git
     ```
 
 * Instale o [NPM HTTP Server](https://www.npmjs.com/package/http-server) via terminal 
