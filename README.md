@@ -52,4 +52,4 @@ Restaurant Reviews App (Fase 1)
 ## Dependência de código
 
 * [Project Restaurant Reviews (Stage 1) - Starter Code](https://github.com/udacity/mws-restaurant-stage-1)
-* [Normalize.css](https://necolas.github.io/normalize.css/))
+* [Normalize.css](https://necolas.github.io/normalize.css/)
