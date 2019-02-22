@@ -1,5 +1,6 @@
 let staticCacheName = 'restaurant-static-v1';
 
+//instalando o SW
 self.addEventListener('install', function(event) {
 	event.waitUntil(
 		caches.open(staticCacheName).then(function(cache) {
@@ -28,6 +29,7 @@ self.addEventListener('install', function(event) {
 	);
 });
 
+//limpando o cache
 self.addEventListener('activate', function(event) {
 	event.waitUntil(
 		caches.keys()

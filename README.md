@@ -18,7 +18,7 @@ Restaurant Reviews App (Fase 1)
 ## Instruções do Projeto
 
 1) Converter um design estático que não oferece acessibilidade em um design que seja responsivo em telas de tamanhos diferentes e acessível para uso no leitor de tela.
-2) Cnvertê-lo em um aplicativo web progressivo (PWA) armazenando alguns ativos em cache para uso offline por meio do Service Worker.
+2) Convertê-lo em um aplicativo web progressivo (PWA) armazenando alguns ativos em cache para uso offline por meio do Service Worker.
 
 ## Pré-requisitos
 1. Qualquer navegador na versão mais atual
@@ -41,7 +41,7 @@ Restaurant Reviews App (Fase 1)
     $ npm install http-server -g
     ```
 
-* Execute o comando abaixo dentro da pasta para rodar um servidor local na porta 8000 do seu navegador
+* Execute o comando abaixo no terminal, dentro da pasta, para iniciar o servidor local na porta 8000
 
     ```
     $  http-server -p 8000
